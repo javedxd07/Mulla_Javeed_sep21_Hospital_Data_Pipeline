@@ -1,0 +1,20 @@
+note_id,patient_id,doctor_id,diagnosis,notes,visit_date
+N001,P001,D01,Hypertension,Advised low salt diet and regular exercise,2023-03-01
+N002,P002,D02,Knee Pain,Prescribed physiotherapy for three weeks,2023-03-01
+N003,P003,D01,,Patient complained of chest discomfort,2023-03-02
+N004,P004,D03,Skin Allergy,Prescribed antihistamine cream,2023-03-02
+N005,P005,D02,Arthritis,Recommended pain management and rest,2023-03-03
+N006,P006,D04,Sinusitis,Prescribed nasal spray and antibiotics,2023-03-03
+N007,P007,D01,Mild Hypertension,Suggested follow-up after one month,2023-03-04
+N008,P008,D05,Common Cold,Advised rest and fluids,2023-03-04
+N009,P009,D03,Eczema,Prescribed moisturizing ointment,2023-03-05
+N010,P010,D02,Back Pain,Recommended physiotherapy sessions,2023-03-05
+N011,P011,D04,Ear Infection,Prescribed antibiotic ear drops,2023-03-06
+N012,P012,D01,Irregular Heartbeat,Referred for ECG test,2023-03-06
+N013,P013,D05,Fever,Advised paracetamol and rest,2023-03-07
+N014,P014,D03,Acne,Prescribed topical treatment,2023-03-07
+N015,P015,D02,Joint Stiffness,Recommended stretching exercises,2023-03-08
+N016,P016,D04,Throat Infection,Prescribed antibiotics,2023-03-08
+N017,P017,D01,Hypertension,Advised regular blood pressure monitoring,2023-03-09
+N018,P018,D05,Viral Fever,Advised hydration and rest,2023-03-09
+N001,P001,D01,Hypertension,Advised low salt diet and regular exercise,2023-03-01

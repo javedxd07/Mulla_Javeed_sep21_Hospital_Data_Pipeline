@@ -1,0 +1,19 @@
+lab_id,patient_id,test_name,test_value,test_unit,test_date
+L001,P001,Blood Sugar,95,mg/dL,2023-03-01
+L002,P002,Hemoglobin,13.5,g/dL,2023-03-01
+L003,P003,Blood Sugar,,mg/dL,2023-03-02
+L004,P004,Cholesterol,180,mg/dL,2023-03-02
+L005,P005,Blood Sugar,pending,mg/dL,2023-03-03
+L006,P006,Hemoglobin,12.8,g/dL,2023-03-03
+L007,P007,Cholesterol,210,mg/dL,2023-03-04
+L008,P008,Blood Sugar,105,mg/dL,2023-03-04
+L009,P009,Hemoglobin,14.1,g/dL,2023-03-05
+L010,P010,Cholesterol,,mg/dL,2023-03-05
+L011,P011,Blood Sugar,99,mg/dL,2023-03-06
+L012,P012,Hemoglobin,13.0,g/dL,2023-03-06
+L013,P013,Cholesterol,195,mg/dL,2023-03-07
+L014,P014,Blood Sugar,110,mg/dL,2023-03-07
+L015,P015,Hemoglobin,12.5,g/dL,2023-03-08
+L016,P016,Cholesterol,175,mg/dL,2023-03-08
+L017,P017,Blood Sugar,102,mg/dL,2023-03-09
+L018,P018,Hemoglobin,13.7,g/dL,2023-03-09

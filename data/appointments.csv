@@ -1,0 +1,20 @@
+appointment_id,patient_id,doctor_id,appointment_date,department,status
+A001,P001,D01,2023-03-01,Cardiology,Completed
+A002,P002,D02,2023-03-01,Orthopedics,Completed
+A003,P003,D01,2023-03-02,Cardiology,
+A004,P004,D03,2023-03-02,Dermatology,Completed
+A005,P005,D02,2023-03-03,Orthopedics,Cancelled
+A006,P006,D04,2023-03-03,ENT,Completed
+A007,P007,D01,2023-03-04,Cardiology,Scheduled
+A008,P008,D05,2023-03-04,General Medicine,Completed
+A009,P009,D03,2023-03-05,Dermatology,Completed
+A010,P010,D02,2023-03-05,Orthopedics,
+A011,P011,D04,2023-03-06,ENT,Completed
+A012,P012,D01,2023-03-06,Cardiology,Completed
+A013,P013,D05,2023-03-07,General Medicine,Scheduled
+A014,P014,D03,2023-03-07,Dermatology,Completed
+A015,P015,D02,2023-03-08,Orthopedics,Completed
+A016,P016,D04,2023-03-08,ENT,Cancelled
+A017,P017,D01,2023-03-09,Cardiology,Completed
+A018,P018,D05,2023-03-09,General Medicine,Completed
+A001,P001,D01,2023-03-01,Cardiology,Completed
